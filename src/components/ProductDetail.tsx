@@ -45,7 +45,7 @@ const ProductDetail = ({ product }: ProductProps) => {
           pauseOnHover: true,
           draggable: true,
           progress: undefined, // Default progress bar for smooth closing
-          theme: "light", // Optional: Use "dark" if you prefer
+          theme: "dark", // Optional: Use "dark" if you prefer
           onClick: () => router.push("/cart"), // Navigate to cart on click
         });
   };
