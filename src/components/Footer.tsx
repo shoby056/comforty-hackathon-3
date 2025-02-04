@@ -85,7 +85,7 @@ const Footer: React.FC = () => {
       {/* Footer Bottom */}
       <div className="container mx-auto flex flex-wrap justify-between items-center px-6 py-4 text-sm text-gray-500">
         <p className="w-full lg:w-auto text-center lg:text-left mb-4 lg:mb-0">
-          Developed by <span className="text-black font-semibold">Muhammad Yousuf</span>
+          Developed by <span className="text-black font-semibold">Muhammad Shoaib</span>
         </p>
         <div className="w-full lg:w-auto flex justify-center lg:justify-end">
           <Image
